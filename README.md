@@ -20,3 +20,6 @@ This program is designed to evaluate the strength of a given password based on c
 
 **Implementation**:
 The program uses Python's built-in re module for regular expression matching. The check_password_strength function takes a password as input and returns a strength score based on the checks. The main function prompts the user to enter a password, calls the check_password_strength function, and prints the password strength rating.
+![Image](https://github.com/user-attachments/assets/2e9eab71-96f8-430c-92b1-92a31ce7bd60)
+
+![Image](https://github.com/user-attachments/assets/9443255d-01c9-4338-a873-408b761038ba)
